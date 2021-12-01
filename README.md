@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Deepak-gs-1992
+- 👀 I’m interested in Science, Cooking, 
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on people to talk about sqc
